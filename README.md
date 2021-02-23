@@ -8,5 +8,4 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, NodeJS, React e NextJS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, sou tecladista, games Valorant, CS:GO, WarCraft e animes. 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-allanlimass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanlimass/)](https://www.linkedin.com/in/allanlimass/) 
-| 
 [![Gmail Badge](https://img.shields.io/badge/-allanlimass-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.interlock@gmail.com)](mailto:allan.interlock@gmail.com)
