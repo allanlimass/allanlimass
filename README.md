@@ -5,7 +5,6 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
 
  👨‍🎓  &nbsp; Estou no 4º semestre de **Ciência da Computação**
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript.
