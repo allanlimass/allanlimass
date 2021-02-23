@@ -9,5 +9,5 @@ Sou um FullStack Developer :computer:
 
  👨‍🎓  &nbsp; Estou no 4º semestre de **Ciência da Computação**
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript.
- <br/> :blush: &mbsp; Estou estudando sobre React, NodeJS e NextJS
+ <br/> :blush: &nbsp; Estou estudando sobre React, NodeJS e NextJS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, sou tecladista, games Valorant, CS:GO, WarCraft e animes. 
