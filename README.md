@@ -6,7 +6,7 @@
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 
- 👨‍🎓  &nbsp; Estou no 4º semestre de **Ciência da Computação**
+ 👨‍🎓  &nbsp; Sou **Bacharel em Ciência da Computação**
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript.
  <br/> :blush: &nbsp; Estou estudando sobre React, NodeJS e NextJS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, sou tecladista, games Valorant, CS:GO, WarCraft e animes. 
